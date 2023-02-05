@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="812aabb4-a019-43fe-8128-02e66e470940" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/libraries/mysql_connector_java_8_0_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/libraries/mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/JAVA-JDBC-QUANLYSACH.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/JAVA-JDBC-QUANLYSACH.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/daoInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/daoInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/khachHangDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/khachHangDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/sachDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/sachDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/userDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/dao/userDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/database/JDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/database/JDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/main/testKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/main/testKhachHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/main/testSach.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/main/testSach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/main/testUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/main/testUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/module/Sach.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/module/Sach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/module/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/module/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/module/khachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/out/production/JAVA-JDBC-QUANLYSACH/module/khachHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/daoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/daoInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/khachHangDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/khachHangDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/sachDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/sachDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/userDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/dao/userDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/database/JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/database/JDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/main/testKhachHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/main/testKhachHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/main/testSach.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/main/testSach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/main/testUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/main/testUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/module/Sach.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/module/Sach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/module/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/module/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/module/khachHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH/src/module/khachHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/JAVA-TEST-JDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/src/database/JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/src/database/JDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TEST-JDBC/src/test/testJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TEST-JDBC/src/test/testJDBC.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JAVA-JDBC-QUANLYSACH" />
+  </component>
+  <component name="ProjectId" id="2KusdrufYzhAcmeGL0SbApRkeIg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/manh/Documents/LẬP TRÌNH/JAVA/JAVA_MYSQL/JAVA-JDBC-QUANLYSACH",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="812aabb4-a019-43fe-8128-02e66e470940" name="Changes" comment="" />
+      <created>1674835893086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674835893086</updated>
+      <workItem from="1674835894672" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

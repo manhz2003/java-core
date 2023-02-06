@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3274211a-44f2-4bb0-b4ff-e0e99d56eb94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vidu1/vidu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vidu2/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vidu2/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vidu2/vidu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vidu3/vidu3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-generic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-generic/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vidu3/vidu3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vidu3/vidu3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/anh/Documents/JAVA/java-core/java-generic",
+    "last_opened_file_path": "/home/anh/Documents/JAVA/java-core/JAVA_MYSQL/JAVA-JDBC-QUANLYSACH",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,7 +96,7 @@
       <updated>1675593023804</updated>
       <workItem from="1675593024968" duration="1634000" />
       <workItem from="1675601241780" duration="603000" />
-      <workItem from="1675698021943" duration="8675000" />
+      <workItem from="1675698021943" duration="9283000" />
     </task>
     <servers />
   </component>

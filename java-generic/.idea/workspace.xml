@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,16 +41,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/anh/Documents/JAVA/java-core/JAVA_MYSQL/JAVA-JDBC-QUANLYSACH",
+    "last_opened_file_path": "/home/manh/Documents/LẬP TRÌNH/JAVA/JAVA CORE/java-generic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test2">
+  <component name="RunManager" selected="Application.vidu1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java-generic" />
@@ -80,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test2" />
         <item itemvalue="Application.vidu1" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -97,6 +98,8 @@
       <workItem from="1675593024968" duration="1634000" />
       <workItem from="1675601241780" duration="603000" />
       <workItem from="1675698021943" duration="9283000" />
+      <workItem from="1675860501180" duration="3290000" />
+      <workItem from="1675865160934" duration="1722000" />
     </task>
     <servers />
   </component>

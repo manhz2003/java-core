@@ -1,7 +1,7 @@
 package vidu2;
 
 public class vidu2 <K, V>{
-//    ví dụ về lớp sử dụng genneric sử dụng kiểu K V
+//    ví dụ về lớp sử dụng genneric sử dụng kiểu K V (truyền từ 2 tham số trở lên)
 //    chuyển đổi qua lại giữa 2 giá trị, ví dụ như dịch từ, ....
 
     private K key;

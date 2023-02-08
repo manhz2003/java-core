@@ -1,3 +1,5 @@
 main - tổng quát về genneric
-vidu1 - phương thức genneric kiểu T
-vidu2 - lớp genneric sử dụng K V
+vidu1 - phương thức genneric (truyền 1 tham số)
+vidu2 - lớp genneric sử dụng K V (truyền nhiều tham số)
+vidu3 - sử dụng wildcard (kiểu genneric không xác định)
+ví dụ về interface genneric xem trong phần kết nối database JDBC
